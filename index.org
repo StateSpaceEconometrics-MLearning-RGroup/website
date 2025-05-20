@@ -1,4 +1,4 @@
-#+title: Página web del grupo de investigación
+#+title: 940223 - ECONOMETRÍA EN ESPACIO DE LOS ESTADOS Y MACHINE LEARNING
 #+LANGUAGE: es
 #+OPTIONS: author:nil
 #+OPTIONS: html-validation-link:nil
@@ -12,7 +12,13 @@
 
 # +attr_html: :style "float: right; width: 20px; margin-left: 1em;"
 
-#+attr_html: :width 250px :align right
-https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
+
+# +attr_html: :width 250px :align right
+# https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
+
+* Enlaces
 
 #+INCLUDE: "README.org::* Enlaces" :only-contents t 
+
+* State-Space Estimation of Econometric Models
+- [[https://www.ucm.es/e-4/ss-book-microsite][link]]
