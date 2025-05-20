@@ -1,0 +1,18 @@
+#+title: Página web del grupo de investigación
+#+LANGUAGE: es
+#+OPTIONS: author:nil
+#+OPTIONS: html-validation-link:nil
+#+OPTIONS: timestamp:nil
+
+# ###########
+# ESTO DA EL FORMATO FINAL DE LA PÁGINA WEB VÉASE [[https://olmon.gitlab.io/org-themes/]]
+#+SETUPFILE: simple_inlineUCM.theme  
+# +SETUPFILE: simple_inline.theme  
+# ###########
+
+# +attr_html: :style "float: right; width: 20px; margin-left: 1em;"
+
+#+attr_html: :width 250px :align right
+https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
+
+#+INCLUDE: "README.org::* Enlaces" :only-contents t 

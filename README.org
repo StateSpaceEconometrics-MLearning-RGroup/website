@@ -1,2 +1,7 @@
-* website
-Página web del grupo de investigación
+#+title: Página web del grupo de investigación
+#+LANGUAGE: es
+
+* Enlaces
+
+- [[https://www.ucm.es/grupos/grupo/225][Grupo de investigación UCM]]
+- [[https://www.ucm.es/grupoee/][Antigua web]]
